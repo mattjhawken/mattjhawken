@@ -1,6 +1,8 @@
 ## Hi, I'm Matt 👋
 
-Biomedical scientist turned builder, working at the intersection of **machine learning**, **distributed systems**, and **computational physics**. I enjoy crafting scalable, open-source tools that bridge science and software.
+**Biomedical scientist & software engineer.**
+
+I enjoy crafting scalable, open-source tools that bridge science and software.
 
 ---
 
