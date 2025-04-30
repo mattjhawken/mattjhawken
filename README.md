@@ -7,7 +7,7 @@ I enjoy making scalable, open-source tools that bridge science and software toge
 ### Current Focus
 
 - 🧠 Distributed training & inference with [Tensorlink](https://github.com/smartnodes-lab/tensorlink)
-- 🌐 Coordinating distributed compute and data science with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)- 
+- 🌐 Coordinating distributed compute and data science with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)
 
 ---
 
