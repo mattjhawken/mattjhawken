@@ -1,24 +1,17 @@
 ## Hi, I'm Matt 👋
 
-**Biomedical scientist & software engineer.**
+**Biomedical Science, Machine Learning, Distributed Systems.**
 
-I enjoy crafting scalable, open-source tools that bridge science and software.
+I enjoy making scalable, open-source tools that bridge science and software together.
 
----
-
-### 🚀 Current Focus
+### Current Focus
 
 - 🧠 Distributed training & inference with [Tensorlink](https://github.com/smartnodes-lab/tensorlink)
-- 🌐 Coordinating distributed science with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)
+- 🌐 Coordinating distributed compute and data science with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)- 
 
 ---
 
-### 📈 GitHub Stats
-
 ![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&show_icons=true&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mattjhawken&theme=radical&row=1)
-
 
 <!--
 **mattjhawken/mattjhawken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
