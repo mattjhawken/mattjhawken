@@ -17,12 +17,6 @@ I enjoy making open-source projects and tools that combine science with software
 
 ![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&show_icons=true&theme=radical)
 
----
-
-🎧 What gets me through the day  
-
-[![Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
-
 <!--
 **mattjhawken/mattjhawken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,4 +30,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+---
+
+🎧 What gets me through the day  
+
+[![Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
+
 -->
