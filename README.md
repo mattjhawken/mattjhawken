@@ -1,8 +1,10 @@
-## Hi, I'm Matt 👋
+# Hi, I'm Matt 👋
 
 **Biomedical Science · Machine Learning · Distributed Systems**
 
 I enjoy making open-source projects and tools that combine science with software. My interests span various fields, including neuroscience, wave and particle physics, astronomy, and robotics. I studied Biomedical Science and Computer Science at Toronto MU.
+
+I'm currently seeking roles in machine learning, distributed systems, or applied AI, particularly in domains related to biological and physical systems.
 
 ### Current Focus
 
@@ -17,6 +19,9 @@ I enjoy making open-source projects and tools that combine science with software
 
 ![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&show_icons=true&theme=radical)
 
+🎧 What gets me through the day
+
+[![Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
 <!--
 **mattjhawken/mattjhawken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,9 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
-
-🎧 What gets me through the day  
-
-[![Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
 
 -->
