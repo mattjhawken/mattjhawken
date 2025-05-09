@@ -4,8 +4,6 @@
 
 I enjoy making open-source projects and tools that combine science with software. My interests span various fields, including neuroscience, wave and particle physics, astronomy, and robotics. I studied Biomedical Science and Computer Science at Toronto MU.
 
-I'm currently seeking roles in machine learning, distributed systems, or applied AI, particularly in domains related to biological and physical systems.
-
 ### Current Focus
 
 * 🧠 Distributed training & inference with [Tensorlink](https://github.com/smartnodes-lab/tensorlink)
@@ -14,6 +12,8 @@ I'm currently seeking roles in machine learning, distributed systems, or applied
     <img src="https://img.shields.io/badge/Demo-00cc66?logo=pytorch&logoColor=white&color=c11" alt="Try Live Demo"/>
   </a>
 * 🌐 Peer-to-peer compute orchestration with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)
+
+I'm currently seeking roles in machine learning, distributed systems, or applied AI, particularly in domains related to biological and physical systems.
 
 ---
 
