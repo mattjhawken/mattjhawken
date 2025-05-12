@@ -18,10 +18,6 @@ I'm currently seeking roles in machine learning, distributed systems, or applied
 ---
 
 ![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&show_icons=true&theme=radical)
-
-🎧 What gets me through the day
-
-[![Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
 <!--
 **mattjhawken/mattjhawken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
