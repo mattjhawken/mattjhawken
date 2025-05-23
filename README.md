@@ -14,7 +14,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
 **Biomedical Sciences · Full Stack · Machine Learning · Distributed Systems**
 
 I like making open-source projects. My interests span various fields, including neuroscience, wave and particle physics, astronomy, and robotics. I studied Biomedical Science and Computer Science at Toronto MU.
@@ -32,9 +31,7 @@ I like making open-source projects. My interests span various fields, including 
 
 ### GitHub Stats & Activity
 ![mattjhawken's Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![mattjhawken's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattjhawken&theme=vue-dark&hide_border=true)
 ![mattjhawken's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true&include_orgs=true)
-
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawkenm)
