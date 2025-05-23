@@ -30,8 +30,9 @@ I like making open-source projects. My interests span various fields, including 
 ---
 
 ### GitHub Stats & Activity
-![mattjhawken's Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![mattjhawken's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true&include_orgs=true)
+[![mattjhawken's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mattjhawken&theme=vue-dark&count_private=true&include_orgs=true)](https://github.com/mattjhawken)
+
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&count_private=true&include_orgs=true)](https://github.com/mattjhawken)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawkenm)
