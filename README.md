@@ -1,8 +1,23 @@
 # Hi, I'm Matt 👋
 
-**Biomedical Science · Machine Learning · Distributed Systems**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-I enjoy making open-source projects and tools that combine science with software. My interests span various fields, including neuroscience, wave and particle physics, astronomy, and robotics. I studied Biomedical Science and Computer Science at Toronto MU.
+
+**Biomedical Sciences · Full Stack · Machine Learning · Distributed Systems**
+
+I like making open-source projects. My interests span various fields, including neuroscience, wave and particle physics, astronomy, and robotics. I studied Biomedical Science and Computer Science at Toronto MU.
 
 ### Current Focus
 
@@ -13,28 +28,18 @@ I enjoy making open-source projects and tools that combine science with software
   </a>
 * 🌐 Peer-to-peer compute orchestration with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)
 
-I'm currently seeking roles in machine learning, distributed systems, or applied AI, particularly in domains related to biological and physical systems.
-
 ---
 
-![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&show_icons=true&theme=radical)
+### GitHub Stats & Activity
+![mattjhawken's Stats](https://github-readme-stats.vercel.app/api?username=mattjhawken&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![mattjhawken's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattjhawken&theme=vue-dark&hide_border=true)
+![mattjhawken's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true&include_orgs=true)
 
-🎧 Ultimate Work Playlist
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+### 🎧 Ultimate Work Playlist
 
 [![Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
-<!--
-**mattjhawken/mattjhawken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
----
-
--->
