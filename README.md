@@ -1,4 +1,10 @@
-# Hi, I'm Matt 👋
+<a href="https://github.com/mattjhawken">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=1000&color=70D470&repeat=false&width=900&height=40&lines=Matthew+Hawken" alt="Name Typing SVG" />
+</a>
+
+<a href="https://github.com/mattjhawken">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=200&color=70D470&repeat=false&width=900&height=30&lines=Biomedical+Scientist+%7C+Full+Stack+Dev+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
+</a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -14,9 +20,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Biomedical Sciences · Full Stack · Machine Learning · Distributed Systems**
 
-I like making open-source projects. My interests span various fields, including neuroscience, wave and particle physics, astronomy, and robotics. I studied Biomedical Science and Computer Science at Toronto MU.
+
+I like making open-source projects. My interests span various fields, including biochemistry, neuroscience, wave and particle physics, astronomy, and machine learning. I studied Biomedical Science and Computer Science at Toronto MU.
 
 ### Current Focus
 
