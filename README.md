@@ -3,9 +3,10 @@
 </a>
 
 <a href="https://github.com/mattjhawken">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=6500&color=70D470&width=900&height=30&lines=Biomedical+Scientist+%7C+Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=6000&color=70D470&width=900&height=30&lines=Biomedical+Scientist+%7C+Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
 </a>
-<br/>
+<br />
+<br />
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
