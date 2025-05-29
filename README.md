@@ -1,9 +1,9 @@
 <a href="https://github.com/mattjhawken">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=6000&color=70D470&width=900&height=40&lines=Matthew+Hawken" alt="Name Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=4500&pause=6000&color=70D470&width=900&height=50&lines=Matthew+Hawken" alt="Name Typing SVG" />
 </a>
 
 <a href="https://github.com/mattjhawken">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=7000&color=70D470&width=900&height=30&lines=Biomedical+Scientist+%7C+Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=7000&color=70D470&width=900&height=40&lines=Biomedical+Science+%7C+Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
 </a>
 <br />
 <br />
