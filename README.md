@@ -23,13 +23,13 @@ I like making open-source projects. My interests span various fields, including 
 
 ### Current Focus
 
-* 🧠 Distributed training & inference with [Tensorlink](https://github.com/smartnodes-lab/tensorlink)
-* 🤖 Cloud-free, private chatbots and AI tools with [localhostGPT](https://github.com/mattjhawken/localhostGPT)
+* 🧠 Distributed training & inference [Tensorlink](https://github.com/smartnodes-lab/tensorlink)
+* 🤖 Cloud-free, private chatbots and AI tools [localhostGPT](https://github.com/mattjhawken/localhostGPT)
   <a href="https://smartnodes.ca/tensorlink/localhostGPT" target="_blank">
     <img src="https://img.shields.io/badge/Demo-00cc66?logo=pytorch&logoColor=white&color=c11" alt="Try Live Demo"/>
   </a>
-* 🌐 Peer-to-peer compute orchestration with [Smartnodes](https://github.com/smartnodes-lab/smartnodes)
-* 📡 Distributed radio astronomy with [Hydra](https://github.com/mattjhawken/hydra)
+* 🌐 Peer-to-peer compute orchestration [Smartnodes](https://github.com/smartnodes-lab/smartnodes)
+* 📡 Distributed radio astronomy [Hydra](https://github.com/mattjhawken/hydra)
 
 ---
 
