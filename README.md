@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/mattjhawken">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=7000&color=70D470&width=900&height=40&lines=Biomedical+Science+%7C+Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=7000&color=70D470&width=900&height=40&lines=Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems+%7C+Biomedical+Science" alt="Titles Typing SVG" />
 </a>
 <br />
 <br />
