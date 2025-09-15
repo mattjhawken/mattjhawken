@@ -28,8 +28,7 @@ I like making open-source projects. My interests span various fields, including 
   <a href="https://smartnodes.ca/tensorlink/localhostGPT" target="_blank">
     <img src="https://img.shields.io/badge/Demo-00cc66?logo=pytorch&logoColor=white&color=c11" alt="Try Live Demo"/>
   </a>
-* 🌐 Peer-to-peer compute orchestration ([Smartnodes](https://github.com/smartnodes-lab/smartnodes))
-* 📡 Hydrogen-line detector & interferometer ([deepfield](https://github.com/mattjhawken/deepfield))
+* 🌐 Modular peer-to-peer compute orchestration ([Smartnodes](https://github.com/smartnodes-lab/smartnodes))
 
 ---
 
