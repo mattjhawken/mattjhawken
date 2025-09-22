@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=7000&color=70D470&width=900&height=40&lines=Full+Stack+%7C+Machine+Learning+%7C+Distributed+Systems+%7C+Biomedical+Science" alt="Titles Typing SVG" />
 </a>
 <br />
-<br />
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -17,11 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawkenm)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smartnodes-lab@proton.me)
 
-
-I like making open-source projects. My interests span various fields, including biochemistry, neuroscience, wave and particle physics, astronomy, and machine learning. I studied Biomedical Science and Computer Science at Toronto MU.
-
-### Current Focus
+### Current Stuff
 
 * 🧠 Distributed training & inference ([tensorlink](https://github.com/smartnodes-lab/tensorlink))
 * 🤖 Cloud-free, private chatbots and AI tools ([localhostGPT](https://github.com/mattjhawken/localhostGPT))
@@ -33,10 +31,6 @@ I like making open-source projects. My interests span various fields, including 
 ---
 
 ### GitHub Stats & Activity
-[![mattjhawken's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mattjhawken&theme=vue-dark&count_private=true&include_orgs=true)](https://github.com/mattjhawken)
+[![mattjhawken's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mattjhawken&theme=radical&include_orgs=true)](https://github.com/mattjhawken)
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&count_private=true&include_orgs=true)](https://github.com/mattjhawken)
-
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawkenm)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smartnodes-lab@proton.me)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mattjhawken&theme=radical&include_orgs=true)](https://github.com/mattjhawken)
