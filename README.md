@@ -31,6 +31,6 @@
 ---
 
 ### GitHub Stats & Activity
-[![mattjhawken's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mattjhawken&theme=radical&include_orgs=true)](https://github.com/mattjhawken)
+[![mattjhawken's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mattjhawken&theme=vue-dark&include_orgs=true)](https://github.com/mattjhawken)
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mattjhawken&theme=radical&include_orgs=true)](https://github.com/mattjhawken)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&include_orgs=true)](https://github.com/mattjhawken)
