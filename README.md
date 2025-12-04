@@ -13,8 +13,8 @@
 ### Current Stuff
 
 * 🧠 Distributed training & inference ([tensorlink](https://github.com/smartnodes-lab/tensorlink))
-* 📡 The Distributed Radio Telescope ([deepfield](https://github.com/mattjhawken/deepfield)]
-* 🌐 Modular peer-to-peer compute orchestration ([Smartnodes](https://github.com/smartnodes-lab/smartnodes))
+* 📡 The Distributed Radio Telescope ([deepfield](https://github.com/mattjhawken/deepfield))
+* 🌐 Modular peer-to-peer compute orchestration ([smartnodes](https://github.com/smartnodes-lab/smartnodes))
 * 🤖 Cloud-free, private chatbots and AI tools ([localhostGPT](https://github.com/mattjhawken/localhostGPT))
   <a href="https://smartnodes.ca/tensorlink/localhostGPT" target="_blank">
     <img src="https://img.shields.io/badge/Demo-00cc66?logo=pytorch&logoColor=white&color=c11" alt="Try Live Demo"/>
