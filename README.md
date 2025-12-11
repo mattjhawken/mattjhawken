@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawkenm)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smartnodes-lab@proton.me)
+[![Ultimate Work Playlist](https://img.shields.io/badge/Work-Playlist-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
 
 ### Current Stuff
 
@@ -19,11 +20,3 @@
   <a href="https://smartnodes.ca/tensorlink/localhostGPT" target="_blank">
     <img src="https://img.shields.io/badge/Demo-00cc66?logo=pytorch&logoColor=white&color=c11" alt="Try Live Demo"/>
   </a>
-
----
-
-[![mattjhawken's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mattjhawken&theme=vue-dark&include_orgs=true)](https://github.com/mattjhawken)
-
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mattjhawken&theme=vue-dark&include_orgs=true)](https://github.com/mattjhawken)
-
-[![Work Playlist](https://img.shields.io/badge/Work-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/593sNSDOqtxgKReALLLAPp)
