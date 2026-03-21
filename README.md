@@ -17,6 +17,6 @@
 * 📡 1.42GHz Radiotelescope ([deepfield](https://github.com/mattjhawken/deepfield))
 * 🌐 Modular peer-to-peer compute orchestration ([smartnodes](https://github.com/smartnodes-lab/smartnodes))
 * 🤖 Cloud-free, private chatbots and AI tools ([tensorlink.io](https://github.com/mattjhawken/tensorlink.io))
-  <a href="https://smartnodes.ca/tensorlink/localhostGPT" target="_blank">
+  <a href="https://tensorlink.io" target="_blank">
     <img src="https://img.shields.io/badge/Demo-00cc66?logo=pytorch&logoColor=white&color=c11" alt="Try Live Demo"/>
   </a>
