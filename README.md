@@ -5,7 +5,7 @@
 <a href="https://github.com/mattjhawken">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=7000&color=70D470&width=900&height=40&lines=Full+Stack+%7C+Biomedical+Science+%7C+Machine+Learning+%7C+Distributed+Systems" alt="Titles Typing SVG" />
 </a>
-<br />
+<br /> 
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=70D470)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=70D470)
