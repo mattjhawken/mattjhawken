@@ -14,8 +14,7 @@
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=70D470)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=70D470)
 
-I build end-to-end systems across distributed software, machine learning, electronics, and custom hardware.
-From peer-to-peer networks and AI tooling to circuitry, RF instrumentation, and CAD modelling.
+I enjoy building systems that span software and hardware, from distributed networks and machine learning infrastructure to embedded electronics, RF instrumentation, and custom-designed hardware.
 
 > ### Active Builds
 > * 🧠 Distributed training & inference ([tensorlink](https://github.com/smartnodes-lab/tensorlink))
